@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Sep 30 19:01:22 2020
-
-@author: Sushrutha Reddy
-"""
 
 import pandas as pd
 from mlxtend.frequent_patterns import apriori, association_rules
